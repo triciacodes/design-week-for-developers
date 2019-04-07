@@ -1,4 +1,8 @@
-# Design Week Itinerary for Developers
+# Design Week Portland for Developers
+
+Design Week Portland (April 6–13, 2019) is a festival offering independent events and open houses all over the city. This is a great opportunity to meet designers and developers, and see what's going on in many disciplines of design.
+
+This guide is a collection of events that I think might be of particular interest to developers, but you can find out more about Design Week at [Design Portland](https://designportland.org/) and view all [events](https://designportland.org/festival/2019/schedule) and [open houses](https://designportland.org/festival/2019/open-houses).
 
 ### Monday
 [Accessible Design: Empathy in a World with No Averages](https://designportland.org/festival/2019/schedule/accessible-design-empathy-in-a-world-with-no-averages)<br>
