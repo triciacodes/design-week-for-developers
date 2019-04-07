@@ -18,7 +18,7 @@ Two VR demos, and a panel discussion about the role of VR in placemaking.
 An exhibition and panel discussion with designers and technologists about the future of fashion and wearable tech.
 
 ### Wednesday
-- [Humans, AI, and The Future of Transportation](https://designportland.org/festival/2019/schedule/humans-ai-and-the-future-of-transportation)<br>
+[Humans, AI, and The Future of Transportation](https://designportland.org/festival/2019/schedule/humans-ai-and-the-future-of-transportation)<br>
 Consider how the passenger experience will change in the future with this talk about AI at Particle Design.
 
 ### Thursday
@@ -38,6 +38,8 @@ Panel that includes discussion of positive and negative implications of VR, AI, 
 Panelists from R/GA, Torch, Microsoft, and Firefox.
 
 ### Friday
-- [Performing Interaction Design](https://designportland.org/festival/2019/schedule/performing-interaction-design)
-- [Design with Accessibility in Mind](https://designportland.org/festival/2019/schedule/design-with-accessibility-in-mind)
-- [The Pressure Is Good for You, A Talk Show](https://designportland.org/festival/2019/schedule/the-pressure-is-good-for-you-a-talk-show)
+[Performing Interaction Design](https://designportland.org/festival/2019/schedule/performing-interaction-design)<br>
+
+[Design with Accessibility in Mind](https://designportland.org/festival/2019/schedule/design-with-accessibility-in-mind)<br>
+
+[The Pressure Is Good for You, A Talk Show](https://designportland.org/festival/2019/schedule/the-pressure-is-good-for-you-a-talk-show)<br>
