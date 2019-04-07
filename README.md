@@ -1,13 +1,13 @@
 # Design Week Itinerary for Developers
 
 ### Monday
-[Accessible Design: Empathy in a World with No Averages](https://designportland.org/festival/2019/schedule/accessible-design-empathy-in-a-world-with-no-averages)
+[Accessible Design: Empathy in a World with No Averages](https://designportland.org/festival/2019/schedule/accessible-design-empathy-in-a-world-with-no-averages)<br>
 To learn more about accessibility through hands on experience, participate in empathy building experiences at this event.
 
-[The Cooler: Ask A Recruiter](https://designportland.org/festival/2019/schedule/the-cooler-ask-a-recruiter): 
+[The Cooler: Ask A Recruiter](https://designportland.org/festival/2019/schedule/the-cooler-ask-a-recruiter)<br>
 Ask recruiters from The Creative Party your questions.
 
-[Better Together: Better Talk](https://designportland.org/festival/2019/schedule/better-together-better-talk): 
+[Better Together: Better Talk](https://designportland.org/festival/2019/schedule/better-together-better-talk)<br>
 Learn how creatives and non-profit organizations can work together better, with panelists from both sides.
 
 ### Tuesday
