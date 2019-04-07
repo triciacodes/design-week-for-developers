@@ -2,7 +2,9 @@
 
 ### Monday
 [Accessible Design: Empathy in a World with No Averages](https://designportland.org/festival/2019/schedule/accessible-design-empathy-in-a-world-with-no-averages): If you'd like to learn more about accessibility through hands on experience, you'll have a chance to participate in empathy building experiences at this event.
+
 [The Cooler: Ask A Recruiter](https://designportland.org/festival/2019/schedule/the-cooler-ask-a-recruiter): This event provides an opportunity to ask recruiters from The Creative Party your questions.
+
 [Better Together: Better Talk](https://designportland.org/festival/2019/schedule/better-together-better-talk): If you're interested in working with non-profits, this discussion is about creatives and non-profit organizations working together better, with panelists from both sides.
 
 ### Tuesday
