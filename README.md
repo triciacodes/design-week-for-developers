@@ -2,6 +2,7 @@
 
 ### Monday
 - [Accessible Design: Empathy in a World with No Averages](https://designportland.org/festival/2019/schedule/accessible-design-empathy-in-a-world-with-no-averages)
+- [The Cooler: Ask A Recruiter](https://designportland.org/festival/2019/schedule/the-cooler-ask-a-recruiter)
 
 ### Tuesday
 - [Democratizing VR for More Livable Cities](https://designportland.org/festival/2019/schedule/democratizing-vr-for-more-livable-cities)
