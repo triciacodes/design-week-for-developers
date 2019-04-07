@@ -18,14 +18,24 @@ Two VR demos, and a panel discussion about the role of VR in placemaking.
 An exhibition and panel discussion with designers and technologists about the future of fashion and wearable tech.
 
 ### Wednesday
-- [Humans, AI, and The Future of Transportation](https://designportland.org/festival/2019/schedule/humans-ai-and-the-future-of-transportation)
+- [Humans, AI, and The Future of Transportation](https://designportland.org/festival/2019/schedule/humans-ai-and-the-future-of-transportation)<br>
+Consider how the passenger experience will change in the future with this talk about AI at Particle Design.
 
 ### Thursday
-- [G(AI)ME TIME](https://designportland.org/festival/2019/schedule/gaime-time)
-- [Drink N' Draw @ DWP](https://designportland.org/festival/2019/schedule/portland-indie-game-squad-presents-drink-n-draw-dwp)
-- [Designing Across Senses](https://designportland.org/festival/2019/schedule/designing-across-senses)
-- [Technology and Livability: Designing Cities for the Future](https://designportland.org/festival/2019/schedule/technology-and-livability-designing-cities-for-the-future)
-- [Evolving design landscape - Designing for inclusivity](https://designportland.org/festival/2019/schedule/evolving-design-landscape-designing-for-inclusivity)
+[G(AI)ME TIME](https://designportland.org/festival/2019/schedule/gaime-time)<br>
+Find out what happens when AI invents a new sport at AKQA.
+
+[Drink N' Draw @ DWP](https://designportland.org/festival/2019/schedule/portland-indie-game-squad-presents-drink-n-draw-dwp)<br>
+Locally made games will be available for everyone to play at this event.
+
+[Designing Across Senses](https://designportland.org/festival/2019/schedule/designing-across-senses)<br>
+UX Book Club PDX hosts John Alderman, co-author of [Designing Across Senses](http://shop.oreilly.com/product/0636920049500.do), for a talk on multimodal design.
+
+[Technology and Livability: Designing Cities for the Future](https://designportland.org/festival/2019/schedule/technology-and-livability-designing-cities-for-the-future)<br>
+Panel that includes discussion of positive and negative implications of VR, AI, machine learning, and augmented reality on cities of the future.
+
+[Evolving Design Landscape - Designing for Inclusivity](https://designportland.org/festival/2019/schedule/evolving-design-landscape-designing-for-inclusivity)<br>
+Panelists from R/GA, Torch, Microsoft, and Firefox.
 
 ### Friday
 - [Performing Interaction Design](https://designportland.org/festival/2019/schedule/performing-interaction-design)
