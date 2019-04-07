@@ -39,7 +39,10 @@ Panelists from R/GA, Torch, Microsoft, and Firefox.
 
 ### Friday
 [Performing Interaction Design](https://designportland.org/festival/2019/schedule/performing-interaction-design)<br>
+Get out of your comfort zone a little and explore user experience through performance.
 
 [Design with Accessibility in Mind](https://designportland.org/festival/2019/schedule/design-with-accessibility-in-mind)<br>
+This looks to be a technology focused panel on accessibility at NWEA.
 
 [The Pressure Is Good for You, A Talk Show](https://designportland.org/festival/2019/schedule/the-pressure-is-good-for-you-a-talk-show)<br>
+A fun Friday night at Instrument.
