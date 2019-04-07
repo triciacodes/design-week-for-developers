@@ -54,5 +54,5 @@ A fun Friday night at Instrument.
 
 ### How to get involved
 - Sign up for an account at [Design Portland](https://designportland.org/) to build an itinerary and gain access to event registration ($5)
-- Register for [events](https://designportland.org/festival/2019/events) (events are priced individually, with some being free)
+- Register for [events](https://designportland.org/festival/2019/schedule) (events are priced individually, with some being free)
 - Register to attend [open houses](https://designportland.org/festival/2019/open-houses) (all are free). Open houses are Mon–Thurs from 4:00–7:00pm, with each night focusing on a quadrant of the city.
