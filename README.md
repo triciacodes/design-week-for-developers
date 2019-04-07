@@ -1,8 +1,8 @@
 # Design Week Portland for Developers
 
-Design Week Portland (April 6–13, 2019) is a festival offering independent events and open houses all over the city. This is a great opportunity to meet designers and developers, and see what's going on in many disciplines of design.
+Design Week Portland (April 6–13, 2019) is a festival offering independent events and open houses all over the city. This week is a unique opportunity to meet designers and developers, learn something new, network, and find out what's going on in many disciplines of design.
 
-This guide is a collection of events that I think might be of particular interest to developers, but you can find out more about Design Week at [Design Portland](https://designportland.org/) and view all [events](https://designportland.org/festival/2019/schedule) and [open houses](https://designportland.org/festival/2019/open-houses).
+This guide is a collection of events that I think might be of particular interest to developers, but you can find out more about Design Week at [Design Portland](https://designportland.org/), or view all [events](https://designportland.org/festival/2019/schedule) and [open houses](https://designportland.org/festival/2019/open-houses).
 
 ### Monday
 [Accessible Design: Empathy in a World with No Averages](https://designportland.org/festival/2019/schedule/accessible-design-empathy-in-a-world-with-no-averages)<br>
@@ -50,3 +50,9 @@ This looks to be a technology focused panel on accessibility at NWEA.
 
 [The Pressure Is Good for You, A Talk Show](https://designportland.org/festival/2019/schedule/the-pressure-is-good-for-you-a-talk-show)<br>
 A fun Friday night at Instrument.
+
+
+### How to get involved
+- Sign up for an account at [Design Portland](https://designportland.org/) to build an itinerary and gain access to event registration ($5)
+- Register for [events](https://designportland.org/festival/2019/events) (events are priced individually, with some being free)
+- Register to attend [open houses](https://designportland.org/festival/2019/open-houses) (all are free). Open houses are Mon–Thurs from 4:00–7:00pm, with each night focusing on a quadrant of the city.
