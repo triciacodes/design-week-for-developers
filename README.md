@@ -11,8 +11,11 @@ Ask recruiters from The Creative Party your questions.
 Learn how creatives and non-profit organizations can work together better, with panelists from both sides.
 
 ### Tuesday
-- [Democratizing VR for More Livable Cities](https://designportland.org/festival/2019/schedule/democratizing-vr-for-more-livable-cities)
-- [Future Frontiers: Crossing Boundaries of Innovation, Technology and Design](https://designportland.org/festival/2019/schedule/future-frontiers-crossing-boundaries-of-innovation-technology-and-design-what-does-this-mean-for-the-future-role-of-designers-makers-and-brands-an-exhibit-and-discussion-with-francis-bitonti-asher-levine-billie-whitehouse)
+[Democratizing VR for More Livable Cities](https://designportland.org/festival/2019/schedule/democratizing-vr-for-more-livable-cities)<br>
+Two VR demos, and a panel discussion about the role of VR in placemaking.
+
+[Future Frontiers: Crossing Boundaries of Innovation, Technology and Design](https://designportland.org/festival/2019/schedule/future-frontiers-crossing-boundaries-of-innovation-technology-and-design-what-does-this-mean-for-the-future-role-of-designers-makers-and-brands-an-exhibit-and-discussion-with-francis-bitonti-asher-levine-billie-whitehouse)<br>
+An exhibition and panel discussion with designers and technologists about the future of fashion and wearable tech.
 
 ### Wednesday
 - [Humans, AI, and The Future of Transportation](https://designportland.org/festival/2019/schedule/humans-ai-and-the-future-of-transportation)
