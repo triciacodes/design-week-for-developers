@@ -4,6 +4,8 @@ Design Week Portland (April 6–13, 2019) is a festival offering independent eve
 
 This guide is a listing of events I think might be interesting for developers, but you can find out more about Design Week at [Design Portland](https://designportland.org/), or view all [events](https://designportland.org/festival/2019/schedule) and [open houses](https://designportland.org/festival/2019/open-houses) to create your own itinerary.
 
+---
+
 ### Monday
 [Accessible Design: Empathy in a World with No Averages](https://designportland.org/festival/2019/schedule/accessible-design-empathy-in-a-world-with-no-averages)<br>
 To learn more about accessibility through hands on experience, participate in empathy building experiences at this event.
@@ -73,6 +75,7 @@ This looks to be a technology focused panel on accessibility at NWEA.
 [The Pressure Is Good for You, A Talk Show](https://designportland.org/festival/2019/schedule/the-pressure-is-good-for-you-a-talk-show)<br>
 A fun Friday night at Instrument.
 
+---
 
 ### How to get involved
 - Sign up for an account at [Design Portland](https://designportland.org/) to build an itinerary and gain access to event registration ($5)
