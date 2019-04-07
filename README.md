@@ -79,7 +79,7 @@ A fun Friday night at Instrument.
 
 ---
 
-![Design Week Portland, April 6-13](dwp.jpg_large)
+![Design Week Portland, April 6-13](dwp.jpg_large =500x500)
 
 ### How to get involved
 - Sign up for an account at [Design Portland](https://designportland.org/) to build an itinerary and gain access to event registration ($5)
