@@ -8,7 +8,7 @@ Hope you get out there this week and enjoy! 👋 [Tricia](http://tricialea.ch/)
 
 ---
 
-### Monday
+### Monday, April 8
 [Accessible Design: Empathy in a World with No Averages](https://designportland.org/festival/2019/schedule/accessible-design-empathy-in-a-world-with-no-averages)<br>
 To learn more about accessibility through hands on experience, participate in empathy building experiences at this event.
 
@@ -24,7 +24,7 @@ Open Houses
 - [Vacasa](https://designportland.org/festival/2019/open-houses/vacasa)
 - [ThinkShout](https://designportland.org/festival/2019/open-houses/think-shout-happy-hour)
 
-### Tuesday
+### Tuesday, April 9
 [Democratizing VR for More Livable Cities](https://designportland.org/festival/2019/schedule/democratizing-vr-for-more-livable-cities)<br>
 Two VR demos, and a panel discussion about the role of VR in placemaking.
 
@@ -35,7 +35,7 @@ Open Houses
 - [Coates Kokes](https://designportland.org/festival/2019/open-houses/coates-kokes)
 - [Pollinate](https://designportland.org/festival/2019/open-houses/pollinate-inc)
 
-### Wednesday
+### Wednesday, April 10
 [Humans, AI, and The Future of Transportation](https://designportland.org/festival/2019/schedule/humans-ai-and-the-future-of-transportation)<br>
 Consider how the passenger experience will change in the future with this talk about AI at Particle Design.
 
@@ -44,7 +44,7 @@ Open Houses
 - [52 Limited](https://designportland.org/festival/2019/open-houses/52-limited)
 - [Zendesk](https://designportland.org/festival/2019/open-houses/zendesk)
 
-### Thursday
+### Thursday, April 11
 [G(AI)ME TIME](https://designportland.org/festival/2019/schedule/gaime-time)<br>
 Find out what happens when AI invents a new sport at AKQA.
 
@@ -67,7 +67,7 @@ Open Houses
 - [Rumors](https://designportland.org/festival/2019/open-houses/rumors)
 - [Nelson Cash](https://designportland.org/festival/2019/open-houses/nelson-cash)
 
-### Friday
+### Friday, April 12
 [Performing Interaction Design](https://designportland.org/festival/2019/schedule/performing-interaction-design)<br>
 Get out of your comfort zone and explore user experience through performance.
 
@@ -78,8 +78,6 @@ This looks to be a technology focused panel on accessibility at NWEA.
 A fun Friday night at Instrument.
 
 ---
-
-<img src="dwp.jpg_large" alt="Design Week Portland, April 6-13" width="500" width="500" />
 
 ### How to get involved
 - Sign up for an account at [Design Portland](https://designportland.org/) to build an itinerary and gain access to event registration ($5)
