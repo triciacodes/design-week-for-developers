@@ -1,7 +1,7 @@
 # Design Week Itinerary for Developers
 
 ### Monday
-- [Accessible Design: Empathy in a World with No Averages](https://designportland.org/festival/2019/schedule/accessible-design-empathy-in-a-world-with-no-averages)
+[Accessible Design: Empathy in a World with No Averages](https://designportland.org/festival/2019/schedule/accessible-design-empathy-in-a-world-with-no-averages)
 - [The Cooler: Ask A Recruiter](https://designportland.org/festival/2019/schedule/the-cooler-ask-a-recruiter)
 - [Better Together: Better Talk](https://designportland.org/festival/2019/schedule/better-together-better-talk)
 
@@ -13,10 +13,11 @@
 - [Humans, AI, and The Future of Transportation](https://designportland.org/festival/2019/schedule/humans-ai-and-the-future-of-transportation)
 
 ### Thursday
+- [G(AI)ME TIME](https://designportland.org/festival/2019/schedule/gaime-time)
+- [Drink N' Draw @ DWP](https://designportland.org/festival/2019/schedule/portland-indie-game-squad-presents-drink-n-draw-dwp)
 - [Designing Across Senses](https://designportland.org/festival/2019/schedule/designing-across-senses)
 - [Technology and Livability: Designing Cities for the Future](https://designportland.org/festival/2019/schedule/technology-and-livability-designing-cities-for-the-future)
 - [Evolving design landscape - Designing for inclusivity](https://designportland.org/festival/2019/schedule/evolving-design-landscape-designing-for-inclusivity)
-- [G(AI)ME TIME](https://designportland.org/festival/2019/schedule/gaime-time)
 
 ### Friday
 - [Performing Interaction Design](https://designportland.org/festival/2019/schedule/performing-interaction-design)
